@@ -26,6 +26,12 @@ const Detail = () => {
             <Typography gutterBottom variant="h5" component="div">
               {movie.title}
             </Typography>
+            <Typography gutterBottom variant="h5" component="div">
+              {movie.releaseYear}
+            </Typography>
+            <Typography gutterBottom variant="h5" component="div">
+              {movie.genre}
+            </Typography>
          
           </CardContent>
           <CardActions>

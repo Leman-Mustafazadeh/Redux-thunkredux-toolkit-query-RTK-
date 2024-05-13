@@ -15,13 +15,6 @@
       "genre": "Sci-Fi, Action"
     },
     {
-      "id": "3",
-      "title": "The Shawshank Redemption",
-      "posterImg": "https://m.media-amazon.com/images/I/71715eBi1sL._AC_UF894,1000_QL80_.jpg",
-      "releaseYear": 1994,
-      "genre": "Drama"
-    },
-    {
       "id": "4",
       "title": "The Dark Knight",
       "posterImg": "https://m.media-amazon.com/images/I/A1exRxgHRRL._AC_UF894,1000_QL80_.jpg",
