@@ -1,0 +1,32 @@
+{
+  "movies": [
+    {
+      "id": "1",
+      "title": "Interstellar",
+      "posterImg": "https://i.pinimg.com/originals/8e/0d/ab/8e0dab8699be85720ce55845065bf6dc.jpg",
+      "releaseYear": 2014,
+      "genre": "Sci-Fi"
+    },
+    {
+      "id": "2",
+      "title": "Inception",
+      "posterImg": "https://m.media-amazon.com/images/I/51ShRC1YMrL._AC_UF894,1000_QL80_.jpg",
+      "releaseYear": 2010,
+      "genre": "Sci-Fi, Action"
+    },
+    {
+      "id": "3",
+      "title": "The Shawshank Redemption",
+      "posterImg": "https://m.media-amazon.com/images/I/71715eBi1sL._AC_UF894,1000_QL80_.jpg",
+      "releaseYear": 1994,
+      "genre": "Drama"
+    },
+    {
+      "id": "4",
+      "title": "The Dark Knight",
+      "posterImg": "https://m.media-amazon.com/images/I/A1exRxgHRRL._AC_UF894,1000_QL80_.jpg",
+      "releaseYear": 2008,
+      "genre": "Action, Crime, Drama"
+    }
+  ]
+}
